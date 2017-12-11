@@ -1,3 +1,6 @@
 # Sentiment-Analysis
 
-A  comparitive Study on the feature extraction techniques on the data set "Large movie Review Data set" [a link](http://ai.stanford.edu/~amaas/data/sentiment).
+A  comparitive Study on the feature extraction technique TF-IDF on the data set "Large movie Review Data set" http://ai.stanford.edu/~amaas/data/sentiment).
+
+
+
