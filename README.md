@@ -1,2 +1,3 @@
 # Sentiment-Analysis
-Sentimental Analysis using Word2Vec on Standard IMDB dataset
+
+A  comparitive Study on the feature extraction techniques on the data set "Large movie Review Data set" [a link](http://ai.stanford.edu/~amaas/data/sentiment).
