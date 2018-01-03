@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 
-A  comparitive Study on the feature extraction technique TF-IDF on the data set "Large movie Review Data set" http://ai.stanford.edu/~amaas/data/sentiment).
+This repository consists of codes for various competitions on kaggle and approaches for sentiment analysis on different data sets
 
 
 
